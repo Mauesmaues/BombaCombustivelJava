@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/BombaCombustivelJava.iml" filepath="$PROJECT_DIR$/.idea/BombaCombustivelJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/princ/princ.iml" filepath="$PROJECT_DIR$/princ/princ.iml" />
+    </modules>
+  </component>
+</project>
